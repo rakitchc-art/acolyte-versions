@@ -12,7 +12,21 @@
   </a>
 </p>
 
+<p align="center">
+  <img alt="Dernière version"
+       src="https://img.shields.io/github/v/release/rakitchc-art/acolyte-versions?label=version&color=1f6fd0&style=flat-square">
+  <img alt="Date de publication"
+       src="https://img.shields.io/github/release-date/rakitchc-art/acolyte-versions?label=publi%C3%A9e%20le&color=68717f&style=flat-square">
+  <img alt="Poids"
+       src="https://img.shields.io/badge/un%20seul%20fichier-79%2C7%20Mo-68717f?style=flat-square">
+</p>
+
 <p align="center"><i>Ce lien donne toujours la dernière version. Rien à installer avant.</i></p>
+
+<p align="center">
+  <sub>Le même numéro s'affiche <b>en haut à droite de la fenêtre d'installation</b> et dans
+  « Où en est Acolyte… » du menu de l'icône : tu sais toujours ce que tu as.</sub>
+</p>
 
 ---
 
